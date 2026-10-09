@@ -1,6 +1,6 @@
 # badge-lab
 
-A tiny bench for docs wording, release notes and checklists.
+Small documentation lab: scratch notes, checklists and release prep.
 
 ## Notes
 
