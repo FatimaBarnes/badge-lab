@@ -5,3 +5,4 @@
 - note 9: the retry section mirrors the code (2026-10-09T23:09:34)
 - note 11: review notes before tagging (2026-10-09T23:09:49)
 - note 13: paths in examples stay relative (2026-10-09T23:10:03)
+- note 15: setup runs before the first import (2026-10-09T23:10:18)
