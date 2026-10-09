@@ -1,0 +1,1 @@
+- note 1: the checklist mirrors the test matrix (2026-10-09T23:08:35)
