@@ -7,3 +7,4 @@
 - note 13: paths in examples stay relative (2026-10-09T23:10:03)
 - note 15: setup runs before the first import (2026-10-09T23:10:18)
 - note 17: review notes before tagging (2026-10-09T23:10:33)
+- note 19: the sample command stays copy-pasteable (2026-10-09T23:10:49)
