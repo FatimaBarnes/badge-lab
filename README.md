@@ -1,6 +1,6 @@
 # badge-lab
 
-Documentation scratchpad for notes, lists and review prep.
+A tiny bench for docs wording, release notes and checklists.
 
 ## Notes
 
