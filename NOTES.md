@@ -2,3 +2,4 @@
 - note 3: review notes before tagging (2026-10-09T23:08:51)
 - note 5: keep the changelog one entry per release (2026-10-09T23:09:06)
 - note 7: temporary notes are pruned weekly (2026-10-09T23:09:20)
+- note 9: the retry section mirrors the code (2026-10-09T23:09:34)
